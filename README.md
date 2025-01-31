@@ -24,5 +24,10 @@ Returns a JSON response with the required details.
 {
 "email": "ibitayo.akinnibosun@gmail.com",
 "current_datetime": "2025-01-31T21:30:43.235Z",
-"github_url": "https://github.com/ebtaryoh"
+"github_url": "https://github.com/ebtaryoh/api-info-retrieval"
 }
+
+
+## **More About Node.js Development**
+Looking for expert **Node.js developers**? Check out:  
+🔗 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
