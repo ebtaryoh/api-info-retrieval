@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     res.json({
         email: "ibitayo.akinnibosun@gmail.com",
         current_datetime: new Date().toISOString(),
-        github_url: "https://github.com/ebtaryoh" 
+        github_url: "https://github.com/ebtaryoh/api-info-retrieval" 
     });
 });
 
