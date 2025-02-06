@@ -19,6 +19,17 @@ This is a simple Node.js API that returns:
 **GET /**  
 Returns a JSON response with the required details.
 
+
+## **Setup Instructions**
+Follow these steps to run the API on your local machine.
+
+### **1. Clone the Repository**
+First, download the project files by running:
+```sh
+git clone https://github.com/ebtaryoh/api-info-retrieval
+cd api-info-retrieval
+
+
 ### **Response Format**
 ```json
 {
@@ -26,7 +37,6 @@ Returns a JSON response with the required details.
 "current_datetime": "2025-01-31T21:30:43.235Z",
 "github_url": "https://github.com/ebtaryoh/api-info-retrieval"
 }
-
 
 ## **More About Node.js Development**
 Looking for expert **Node.js developers**? Check out:  
